@@ -9,11 +9,11 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #9ba2ff;
+            background-color: #93867F;
             font-family: Arial, sans-serif;
         }
         .card {
-            background: #93867F;
+            background: #DEC1FF;
             width: 350px;
             padding: 20px;
             border-radius: 10px;
@@ -29,17 +29,17 @@
         .card h2 {
             margin: 10px 0;
             font-size: 1.5em;
-            color: #DEC1FF;
+            color: #7D70BA;
         }
         .card p {
             margin: 5px 0;
-            color: #777;
+            color: #7D70BA;
         }
         .card a {
             display: inline-block;
             margin-top: 10px;
             padding: 10px 15px;
-            background: #007bff;
+            background: #343633;
             color: white;
             text-decoration: none;
             border-radius: 5px;
