@@ -51,7 +51,7 @@
 </head>
 <body>
     <div class="card">
-        <img src="profile.jpg" alt="Profile Picture">
+        <img src="pfpic.jpg" alt="Profile Picture">
         <h2>Francesca Morra</h2>
         <p>francesca03.morra@gmail.com</p>
         <a href="[https://example.com](https://en.wikipedia.org/wiki/Wasp-spine_velvetfish)">Website</a>
