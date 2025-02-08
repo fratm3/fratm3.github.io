@@ -13,7 +13,7 @@
             font-family: Arial, sans-serif;
         }
         .card {
-            background: #a499be;
+            background: #93867F;
             width: 350px;
             padding: 20px;
             border-radius: 10px;
@@ -29,7 +29,7 @@
         .card h2 {
             margin: 10px 0;
             font-size: 1.5em;
-            color: #2A2E45;
+            color: #DEC1FF;
         }
         .card p {
             margin: 5px 0;
@@ -45,7 +45,7 @@
             border-radius: 5px;
         }
         .card a:hover {
-            background: #0056b3;
+            background: #343633;
         }
     </style>
 </head>
