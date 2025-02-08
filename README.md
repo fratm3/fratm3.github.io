@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,11 +52,9 @@
 <body>
     <div class="card">
         <img src="profile.jpg" alt="Profile Picture">
-        <h2>John Doe</h2>
-        <p>Web Developer</p>
-        <p>john.doe@example.com</p>
-        <p>(123) 456-7890</p>
-        <a href="https://example.com">Website</a>
+        <h2>Francesca Morra</h2>
+        <p>francesca03.morra@gmail.com</p>
+        <a href="[https://example.com](https://en.wikipedia.org/wiki/Wasp-spine_velvetfish)">Website</a>
     </div>
 </body>
 </html>
