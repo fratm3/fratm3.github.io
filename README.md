@@ -13,7 +13,7 @@
             font-family: Arial, sans-serif;
         }
         .card {
-            background: white;
+            background: #a499be;
             width: 350px;
             padding: 20px;
             border-radius: 10px;
@@ -29,7 +29,7 @@
         .card h2 {
             margin: 10px 0;
             font-size: 1.5em;
-            color: #333;
+            color: #2A2E45;
         }
         .card p {
             margin: 5px 0;
