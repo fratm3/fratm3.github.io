@@ -9,7 +9,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #f4f4f4;
+            background-color: #9ba2ff;
             font-family: Arial, sans-serif;
         }
         .card {
@@ -54,7 +54,7 @@
         <img src="pfpic.jpg" alt="Profile Picture">
         <h2>Francesca Morra</h2>
         <p>francesca03.morra@gmail.com</p>
-        <a href="[https://example.com](https://en.wikipedia.org/wiki/Wasp-spine_velvetfish)">Website</a>
+        <a href="https://en.wikipedia.org/wiki/Wasp-spine_velvetfish">Website</a>
     </div>
 </body>
 </html>
