@@ -9,7 +9,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #93867F;
+            background-color: #68b867;
             font-family: Arial, sans-serif;
         }
         .card {
